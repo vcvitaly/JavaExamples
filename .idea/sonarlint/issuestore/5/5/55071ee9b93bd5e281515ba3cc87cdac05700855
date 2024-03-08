@@ -1,5 +1,0 @@
-
-G	java:S106"+Replace this use of System.out by a logger.(äÈ•ø8Á¯Ÿ¥Ý1
-G	java:S106	"+Replace this use of System.out by a logger.(äÈ•ø8¢¹ ¥Ý1
-K
-java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8Ã¯Ÿ¥Ý1
